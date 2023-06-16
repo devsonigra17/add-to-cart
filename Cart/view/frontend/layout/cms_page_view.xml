@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <!-- <head>
+        <css src="Dev_Showproduct::css/home.css"/>
+    </head>
+ -->    
+    <referenceBlock name="content">
+        <block class="Magento\Framework\View\Element\Template" name="test4" template="Dev_Cart::cookie/view.phtml"/>    
+    </referenceBlock>
+</page>
